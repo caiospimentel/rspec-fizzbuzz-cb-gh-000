@@ -10,6 +10,6 @@ def fizzbuzz(int)
     "FizzBuzz"
   else
     retun nil
-  end 
-  
+  end
+
 end
